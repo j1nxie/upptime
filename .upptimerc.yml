@@ -7,6 +7,10 @@ sites:
     url: https://rylie.moe
   - name: closure-api
     url: https://closure.rylie.moe/api/status
+  - name: nazunacord chibisafe
+    url: https://nazunacord.net/api/health
+  - name: nazunacord jellyfin
+    url: https://jellyfin.nazunacord.net/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,13 +18,15 @@ status-website:
   # cname: rylie.moe
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: uptime status
+  introTitle: "status page for all my sites and services, hosted under the domains rylie.moe and nazunacord.net!"
+  introMessage: everything that's personally hosted by me is tracked here! powered by [**upptime**](https://github.com/upptime/upptime).
   navbar:
-    - title: Status
+    - title: status
       href: /
-    - title: GitHub
+    - title: homepage
+      href: https://rylie.moe
+    - title: github
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
