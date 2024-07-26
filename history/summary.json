@@ -22,53 +22,59 @@
     "url": "https://closure.rylie.moe/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 938,
-    "timeDay": 935,
-    "timeWeek": 938,
-    "timeMonth": 938,
-    "timeYear": 938,
-    "dailyMinutesDown": {}
+    "time": 841,
+    "timeDay": 598,
+    "timeWeek": 841,
+    "timeMonth": 841,
+    "timeYear": 841,
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   },
   {
     "name": "nazunacord chibisafe",
     "url": "https://nazunacord.net/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/nazunacord.net.ico",
     "slug": "nazunacord-chibisafe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 733,
-    "timeDay": 775,
-    "timeWeek": 733,
-    "timeMonth": 733,
-    "timeYear": 733,
-    "dailyMinutesDown": {}
+    "time": 637,
+    "timeDay": 468,
+    "timeWeek": 637,
+    "timeMonth": 637,
+    "timeYear": 637,
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   },
   {
     "name": "nazunacord jellyfin",
     "url": "https://jellyfin.nazunacord.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.nazunacord.net.ico",
     "slug": "nazunacord-jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 773,
-    "timeWeek": 736,
-    "timeMonth": 736,
-    "timeYear": 736,
-    "dailyMinutesDown": {}
+    "time": 631,
+    "timeDay": 439,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 631,
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   }
 ]
