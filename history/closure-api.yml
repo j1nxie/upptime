@@ -1,7 +1,7 @@
 url: https://closure.rylie.moe/api/status
-status: up
-code: 200
-responseTime: 996
-lastUpdated: 2024-08-18T23:10:18.616Z
+status: down
+code: 530
+responseTime: 60
+lastUpdated: 2024-08-19T16:29:46.359Z
 startTime: 2024-07-22T10:57:16.510Z
 generator: Upptime <https://github.com/upptime/upptime>
